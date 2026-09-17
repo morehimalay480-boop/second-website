@@ -1,1 +1,3 @@
-print("This is practice of codes")
+import os
+
+print(os.listdir())
